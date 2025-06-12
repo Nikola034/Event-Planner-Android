@@ -25,6 +25,8 @@ The **Android** repository contains the Android app for **EventPlanner**, offeri
 
 The app integrates with backend APIs, supports JWT authentication, and leverages real-time communication through WebSockets.
 
+See also: 
+
 - [EventPlanner Backend](https://github.com/Nikola034/Event-Planner-Backend)  
 - [EventPlanner Frontend](https://github.com/Nikola034/Event-Planner-Frontend) 
 - [EventPlanner Selenium Tests](https://github.com/Nikola034/Event-Planner-Selenium-Tests)
