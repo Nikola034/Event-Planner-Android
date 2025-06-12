@@ -9,6 +9,7 @@ A native Android application for the **EventPlanner** platform — developed usi
 - [Architecture & Features](#architecture--features)
 - [Tech Stack](#tech-stack)
 - [Code Quality](#code-quality)
+- [Team Collaboration](#team--collaboration)
 - [My Contributions](#my-contributions)
 
 ---
@@ -75,6 +76,17 @@ See also:
 - 📏 Clean code with clear separation of concerns  
 - 🔄 Code reviews with pull requests to maintain quality  
 - 🗂️ Agile development tracked on Trello with sprint retrospectives  
+
+---
+
+<a name="team--collaboration"></a>
+## 🤝 Team & Collaboration
+
+- Developed collaboratively by a team of **3 members**
+- Worked in agile sprints with clearly defined roles and responsibilities
+- Used **Trello** for task management, sprint planning, and retrospectives
+- Maintained high code quality through **pull requests**, **code reviews**, and team discussions
+- Initial designs and workflows were created and shared in **Figma**
 
 ---
 
